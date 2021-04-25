@@ -1,85 +1,106 @@
 [
   {
     "id": 0,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Ann McKenzie",
+    "title": "UX Research",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 1,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Christine Bumpous",
+    "title": "Development & Product",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 2,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Deric Chan",
+    "title": "Product",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 3,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Gayatri Shandar",
+    "title": "Development",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 4,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Gurveen Sekhon",
+    "title": "Design & UX Research",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 5,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Janu Sung",
+    "title": "Development",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 6,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Julie Wong",
+    "title": "UX Research",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 7,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Kaavya Muralidhar",
+    "title": "Product",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 8,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Katie Stutts",
+    "title": "Development",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 9,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Ken Ohnemus",
+    "title": "UX Research",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 10,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Maliq Winter",
+    "title": "Development",
     "description": "Cool description bro",
     "img": "img url"
   },
   {
     "id": 11,
-    "name": "First Last",
-    "title": "Team Title",
+    "name": "Michael Joers",
+    "title": "Design",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 12,
+    "name": "Rachel Teal",
+    "title": "UX Research",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 13,
+    "name": "Seamus Brugh",
+    "title": "Project Owner",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 14,
+    "name": "Shannon Chakma",
+    "title": "UX Researech & Product",
     "description": "Cool description bro",
     "img": "img url"
   }

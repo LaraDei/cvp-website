@@ -8,7 +8,7 @@ const AboutDetails = (props) => {
       <img src={imgPlaceholder} class="about-img"/> 
       <div class="container" id="about-info">
         <h5>{props.name}</h5>
-        <h6>{props.title}</h6>
+        <h6 id="about-title">{props.title}</h6>
         <p>
           {props.description}
         </p>
