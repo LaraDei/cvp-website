@@ -10,3 +10,7 @@ section:nth-child(odd) {
 .btn {
   background-color: #13229c;
 }
+
+.container-fluid-content {
+  padding: 3em;
+}

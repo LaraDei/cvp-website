@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div>
       <section class="container-fluid"></section>
-      <section class="container-fluid">
+      <section class="container-fluid-content">
         <div class="row">
           <div class="col" id="jumbotron-text">
             <h3>Some Great Title Text Here</h3>
@@ -18,7 +18,7 @@ const Home = () => {
         </div>
       </section>
 
-      <section class="container-fluid">
+      <section class="container-fluid-content">
         <div class="row">
           <div class="col">
             <h1 class="display-6">Who We Are</h1>
@@ -41,7 +41,7 @@ const Home = () => {
         </div>
       </section>
 
-      <section class="container-fluid">
+      <section class="container-fluid-content">
         <div class="row">
             <div class="col">
               <h1 class="display-6">Research Findings</h1>
@@ -76,7 +76,7 @@ const Home = () => {
         </div>
       </section>
 
-      <section class="container-fluid">
+      <section class="container-fluid-content">
         <div class="row">
           <h1 class="display-6">Future Plans</h1>
             <div class="col">
@@ -96,7 +96,7 @@ const Home = () => {
         </div>
       </section>
 
-      <section class="container-fluid">
+      <section class="container-fluid-content">
         <div class="row">
           <div class="col">
             <h3>Want to Learn More?</h3>
