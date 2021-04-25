@@ -14,3 +14,7 @@ section:nth-child(odd) {
 #logo {
   width: 400px;
 }
+
+.bi {
+  margin: 1em;
+}
