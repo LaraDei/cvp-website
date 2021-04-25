@@ -14,3 +14,7 @@ section:nth-child(odd) {
 .container-fluid-content {
   padding: 3em;
 }
+
+.container-fluid-header {
+  /* padding: 1em; */
+}

@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div>
       <section class="container-fluid"></section>
-      <section class="container-fluid-content">
+      <section class="container-fluid-header">
         <div class="row">
           <div class="col" id="jumbotron-text">
             <h3>Some Great Title Text Here</h3>
@@ -22,18 +22,29 @@ const Home = () => {
         <div class="row">
           <div class="col">
             <h1 class="display-6">Who We Are</h1>
+            <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="currentColor" class="bi bi-people-fill" viewBox="0 0 16 16">
+              <path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1H7zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+              <path fill-rule="evenodd" d="M5.216 14A2.238 2.238 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.325 6.325 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1h4.216z"/>
+              <path d="M4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/>
+            </svg>
             <p>
               The Washington Conviction Vacation Project is an all-volunteer technology driven team focused on reducing barriers faced by formerly incarcerated individuals by streamlining the process of vacating eligible convictions in Washington state.
             </p>
           </div>
           <div class="col">
             <h1 class="display-6">The Problem</h1>
+            <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="currentColor" class="bi bi-patch-question-fill" viewBox="0 0 16 16">
+              <path d="M5.933.87a2.89 2.89 0 0 1 4.134 0l.622.638.89-.011a2.89 2.89 0 0 1 2.924 2.924l-.01.89.636.622a2.89 2.89 0 0 1 0 4.134l-.637.622.011.89a2.89 2.89 0 0 1-2.924 2.924l-.89-.01-.622.636a2.89 2.89 0 0 1-4.134 0l-.622-.637-.89.011a2.89 2.89 0 0 1-2.924-2.924l.01-.89-.636-.622a2.89 2.89 0 0 1 0-4.134l.637-.622-.011-.89a2.89 2.89 0 0 1 2.924-2.924l.89.01.622-.636zM7.002 11a1 1 0 1 0 2 0 1 1 0 0 0-2 0zm1.602-2.027c.04-.534.198-.815.846-1.26.674-.475 1.05-1.09 1.05-1.986 0-1.325-.92-2.227-2.262-2.227-1.02 0-1.792.492-2.1 1.29A1.71 1.71 0 0 0 6 5.48c0 .393.203.64.545.64.272 0 .455-.147.564-.51.158-.592.525-.915 1.074-.915.61 0 1.03.446 1.03 1.084 0 .563-.208.885-.822 1.325-.619.433-.926.914-.926 1.64v.111c0 .428.208.745.585.745.336 0 .504-.24.554-.627z"/>
+            </svg>
             <p>
               The process of vacating a conviction can be complex in Washington state - determining if you are eligible, gathering documents, filing motions with the court, scheduling a hearing.  Hiring an attorney for this process can be cost-prohibitive, and a volunteer attorney clinic may not be accessible.  We believe that utilizing software could help simplify this process.
             </p>
           </div>
           <div class="col">
             <h1 class="display-6">Our Goal</h1>
+            <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" fill="currentColor" class="bi bi-lightbulb-fill" viewBox="0 0 16 16">
+              <path d="M2 6a6 6 0 1 1 10.174 4.31c-.203.196-.359.4-.453.619l-.762 1.769A.5.5 0 0 1 10.5 13h-5a.5.5 0 0 1-.46-.302l-.761-1.77a1.964 1.964 0 0 0-.453-.618A5.984 5.984 0 0 1 2 6zm3 8.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1l-.224.447a1 1 0 0 1-.894.553H6.618a1 1 0 0 1-.894-.553L5.5 15a.5.5 0 0 1-.5-.5z"/>
+            </svg>
             <p>
               Our volunteer research team is in the process of identifying where building a software tool could provide value to Washingtonians seeking to vacate convictions from their record.  There are numerous benefits to vacating a conviction, including better opportunities for housing and employment.  
             </p>
