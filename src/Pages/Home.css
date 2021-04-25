@@ -1,4 +1,12 @@
+section:nth-child(odd) {
+  background-color: gainsboro;
+}
+
 #jumbotron-text {
   margin-top: auto;
   margin-bottom: auto;
+}
+
+.btn {
+  background-color: #13229c;
 }
