@@ -1,0 +1,16 @@
+section:nth-child(odd) {
+  background-color: whitesmoke;
+}
+
+.col {
+  padding: 3em;
+  max-width: 460px;
+}
+
+.row {
+  justify-content: center;
+}
+
+#logo {
+  width: 400px;
+}
