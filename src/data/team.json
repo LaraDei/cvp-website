@@ -1,0 +1,107 @@
+[
+  {
+    "id": 0,
+    "name": "Ann McKenzie",
+    "title": "UX Research",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 1,
+    "name": "Christine Bumpous",
+    "title": "Development & Product",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 2,
+    "name": "Deric Chan",
+    "title": "Product",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 3,
+    "name": "Gayatri Shandar",
+    "title": "Development",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 4,
+    "name": "Gurveen Sekhon",
+    "title": "Design & UX Research",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 5,
+    "name": "Janu Sung",
+    "title": "Development",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 6,
+    "name": "Julie Wong",
+    "title": "UX Research",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 7,
+    "name": "Kaavya Muralidhar",
+    "title": "Product",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 8,
+    "name": "Katie Stutts",
+    "title": "Development",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 9,
+    "name": "Ken Ohnemus",
+    "title": "UX Research",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 10,
+    "name": "Maliq Winter",
+    "title": "Development",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 11,
+    "name": "Michael Joers",
+    "title": "Design",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 12,
+    "name": "Rachel Teal",
+    "title": "UX Research",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 13,
+    "name": "Seamus Brugh",
+    "title": "Project Owner",
+    "description": "Cool description bro",
+    "img": "img url"
+  },
+  {
+    "id": 14,
+    "name": "Shannon Chakma",
+    "title": "UX Researech & Product",
+    "description": "Cool description bro",
+    "img": "img url"
+  }
+]

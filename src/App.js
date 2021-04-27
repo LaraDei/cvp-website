@@ -23,27 +23,25 @@ import Footer from "./Components/Footer";
 function App() {
   return (
     <div className="App">
-      <div className="container-fluid">
-        <Header />
-        <Switch>
-          <Route path="/about">
-            <About />
-          </Route>
-          <Route path="/contact">
-            <Contact />
-          </Route>
-          <Route path="/resources">
-            <Resources />
-          </Route>
-          <Route path="/volunteer">
-            <Volunteer />
-          </Route>
-          <Route path="/">
-            <Home />
-          </Route>
-        </Switch>
-        <Footer />
-      </div>
+      <Header />
+      <Switch>
+        <Route path="/about">
+          <About />
+        </Route>
+        <Route path="/contact">
+          <Contact />
+        </Route>
+        <Route path="/resources">
+          <Resources />
+        </Route>
+        <Route path="/volunteer">
+          <Volunteer />
+        </Route>
+        <Route path="/">
+          <Home />
+        </Route>
+      </Switch>
+      <Footer />
     </div>
   );
 }

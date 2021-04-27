@@ -7,6 +7,10 @@ section:nth-child(odd) {
   max-width: 460px;
 }
 
+.container-fluid-content {
+  padding: 3em;
+}
+
 .row {
   justify-content: center;
 }
@@ -17,4 +21,9 @@ section:nth-child(odd) {
 
 .bi {
   margin: 1em;
+}
+
+#filler {
+  padding: 0;
+  margin: 0;
 }
