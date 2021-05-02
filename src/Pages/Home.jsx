@@ -9,8 +9,8 @@ const Home = () => {
       <section class="container-fluid-header">
         <div class="row">
           <div class="col" id="jumbotron-text">
-            <h3>Some Great Title Text Here</h3>
-            <button type="button" class="btn btn-primary">Call To Action</button>
+            <h3>Washington Conviction Vacation Project</h3>
+            <button type="button" class="btn btn-primary" onClick="#section-one">Learn More!</button>
           </div>
           <div class="col">
             <img src={logo} id="logo"></img>
@@ -18,7 +18,7 @@ const Home = () => {
         </div>
       </section>
 
-      <section class="container-fluid-content">
+      <section class="container-fluid-content" id="section-one">
         <div class="row">
           <div class="col">
             <h1 class="display-6">Who We Are</h1>
