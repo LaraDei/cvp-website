@@ -18,3 +18,12 @@ section:nth-child(odd) {
 .container-fluid-header {
   /* padding: 1em; */
 }
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: grey;
+}

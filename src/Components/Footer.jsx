@@ -4,11 +4,9 @@ const Footer = () => {
   return (
     <footer className="footer-cont">
       <div className="info-cont">
-        <ul>phone number</ul>
-        <ul>Email</ul>
-        <ul>policy</ul>
-        <ul>contact</ul>
-        <ul>disclaimer</ul>
+        <a href="mailto:mail@seamus.work"><ul>Email Us</ul></a>
+        <a href="https://www.democracylab.org/about"><ul>Democracy Lab</ul></a>
+        <a href="https://openseattle.org/about/"><ul>Open Seattle</ul></a>
       </div>
     </footer>
   );
