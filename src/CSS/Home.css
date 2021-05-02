@@ -20,10 +20,15 @@ section:nth-child(odd) {
 }
 
 a {
-  color: #fff;
+  color: #13229c;
   text-decoration: none;
 }
 
 a:hover {
   color: grey;
+}
+
+.white-link {
+  color: #fff;
+  text-decoration: none;
 }

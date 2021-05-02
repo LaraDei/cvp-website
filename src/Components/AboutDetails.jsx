@@ -1,6 +1,5 @@
 import React from "react";
-import imgPlaceholder from '../Assets/img.jpg'
-import './AboutDetails.css'
+import '../CSS/AboutDetails.css'
 
 const AboutDetails = (props) => {
   return (

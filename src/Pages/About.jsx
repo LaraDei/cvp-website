@@ -1,5 +1,5 @@
 import React from "react";
-import './About.css'
+import '../CSS/About.css'
 import logo from '../Assets/CVP.png'
 import AboutDetails from '../Components/AboutDetails'
 import data from '../data/team.json'
@@ -35,7 +35,7 @@ const About = () => {
       <p>
         Reach out to learn more and opportunities to volunteer with us.
       </p>
-      <button type="button" class="btn btn-primary"><a href="mailto:mail@seamus.work">Contact Us!</a></button>
+      <button type="button" class="btn btn-primary"><a class="white-link" href="mailto:mail@seamus.work">Contact Us!</a></button>
     </section>
   </div>
   );

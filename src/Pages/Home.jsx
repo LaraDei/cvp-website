@@ -1,6 +1,6 @@
 import React from "react";
 import logo from '../Assets/CVP.png'
-import './Home.css'
+import '../CSS/Home.css'
 
 const Home = () => {
   return (
@@ -122,7 +122,7 @@ const Home = () => {
         <div class="row">
           <div class="col">
             <h3>Want to Learn More?</h3>
-            <button type="button" class="btn btn-primary"><a href="mailto:mail@seamus.work">Contact Us!</a></button>
+            <button type="button" class="btn btn-primary"><a class="white-link" href="mailto:mail@seamus.work">Contact Us!</a></button>
           </div>
         </div>
       </section>
