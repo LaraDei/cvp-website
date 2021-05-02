@@ -3,105 +3,112 @@
     "id": 0,
     "name": "Ann McKenzie",
     "title": "UX Research",
-    "description": "Cool description bro",
-    "img": "img url"
+    "description": "",
+    "img": "https://i.ibb.co/CHYP72V/T016-YURLXFA-U01-SR7-PA8-SD-70adbd345a78-512.png"
   },
   {
     "id": 1,
     "name": "Christine Bumpous",
     "title": "Development & Product",
-    "description": "Cool description bro",
-    "img": "img url"
+    "description": "",
+    "img": "https://i.ibb.co/8BTrJT6/placeholder-headshot-image.jpg"
   },
   {
     "id": 2,
     "name": "Deric Chan",
     "title": "Product",
-    "description": "Cool description bro",
-    "img": "img url"
+    "description": "Hi! I am a product manager for CVP. I joined CVP to gain a better understanding of the problems faced by people with convictions and work with awesome volunteers to create a solution. Fun Fact: Prior to COVID, I was an avid Jiu-jitsu practitioner! Oss!",
+    "img": "https://i.ibb.co/v3NhBF4/T016-YURLXFA-U01-DN2-CHRRT-3195c45b1f3e-512.jpg"
   },
   {
     "id": 3,
     "name": "Gayatri Shandar",
     "title": "Development",
-    "description": "Cool description bro",
-    "img": "img url"
+    "description": "",
+    "img": "https://i.ibb.co/5XZgPJj/T016-YURLXFA-U01-J2-J0-QG9-G-6e02f3c93eff-512.jpg"
   },
   {
     "id": 4,
     "name": "Gurveen Sekhon",
     "title": "Design & UX Research",
-    "description": "Cool description bro",
-    "img": "img url"
+    "description": "",
+    "img": "https://i.ibb.co/yk39fmS/IMG-0386.jpg"
   },
   {
     "id": 5,
     "name": "Janu Sung",
     "title": "Development",
-    "description": "Cool description bro",
-    "img": "img url"
+    "description": "",
+    "img": "https://i.ibb.co/8BTrJT6/placeholder-headshot-image.jpg"
   },
   {
     "id": 6,
-    "name": "Julie Wong",
-    "title": "UX Research",
-    "description": "Cool description bro",
-    "img": "img url"
+    "name": "Joe Avila",
+    "title": "Development",
+    "description": "",
+    "img": "https://i.ibb.co/zFRNCCj/T016-YURLXFA-U01-UL66-FHCP-bb23b9bc8cc8-512.jpg"
   },
   {
     "id": 7,
-    "name": "Kaavya Muralidhar",
-    "title": "Product",
-    "description": "Cool description bro",
-    "img": "img url"
+    "name": "Julie Wong",
+    "title": "UX Research",
+    "description": "",
+    "img": "https://i.ibb.co/8BTrJT6/placeholder-headshot-image.jpg"
   },
   {
     "id": 8,
-    "name": "Katie Stutts",
-    "title": "Development",
-    "description": "Cool description bro",
-    "img": "img url"
+    "name": "Kaavya Muralidhar",
+    "title": "Product",
+    "description": "",
+    "img": "https://i.ibb.co/8BTrJT6/placeholder-headshot-image.jpg"
   },
   {
     "id": 9,
-    "name": "Ken Ohnemus",
-    "title": "UX Research",
-    "description": "Cool description bro",
-    "img": "img url"
+    "name": "Katie Stutts",
+    "title": "Development",
+    "description": "",
+    "img": "https://i.ibb.co/pzvJzH8/T016-YURLXFA-U0169-AECV43-2e65a177e23c-512.jpg"
   },
   {
     "id": 10,
-    "name": "Maliq Winter",
-    "title": "Development",
-    "description": "Cool description bro",
-    "img": "img url"
+    "name": "Ken Ohnemus",
+    "title": "UX Research",
+    "description": "",
+    "img": "https://i.ibb.co/8BTrJT6/placeholder-headshot-image.jpg"
   },
   {
     "id": 11,
-    "name": "Michael Joers",
-    "title": "Design",
-    "description": "Cool description bro",
-    "img": "img url"
+    "name": "Maliq Winter",
+    "title": "Development",
+    "description": "",
+    "img": "https://i.ibb.co/8BTrJT6/placeholder-headshot-image.jpg"
   },
   {
     "id": 12,
-    "name": "Rachel Teal",
-    "title": "UX Research",
-    "description": "Cool description bro",
-    "img": "img url"
+    "name": "Michael Joers",
+    "title": "Design",
+    "description": "",
+    "img": "https://i.ibb.co/8BTrJT6/placeholder-headshot-image.jpg"
   },
   {
     "id": 13,
-    "name": "Seamus Brugh",
-    "title": "Project Owner",
-    "description": "Cool description bro",
-    "img": "img url"
+    "name": "Rachel Teal",
+    "title": "UX Research",
+    "description": "",
+    "img": "https://i.ibb.co/xs7gcbC/T016-YURLXFA-U01-UJVA579-A-4a1f410cc7b3-512.jpg"
   },
   {
     "id": 14,
+    "name": "Seamus Brugh",
+    "title": "Project Owner",
+    "description": "Seamus is overly analytical, annoyingly positive, ravenously curious, and irreverently silly. Seamus does all he can to help others realize their potential.",
+    "img": "https://i.ibb.co/q0Tq2wK/Seamus-headshot-octagon-sm.jpg"
+  },
+  {
+    "id": 15,
     "name": "Shannon Chakma",
-    "title": "UX Researech & Product",
-    "description": "Cool description bro",
-    "img": "img url"
+    "title": "UX Research & Product",
+    "description": "",
+    "img": "https://i.ibb.co/0M7YNsw/T016-YURLXFA-U01-L5-GGGTKN-49b68167e35e-512.jpg"
   }
 ]
