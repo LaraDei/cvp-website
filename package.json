@@ -1,6 +1,6 @@
 {
   "name": "cvp-website",
-  "homepage": "https://stuttskl.github.io/cvp-website",
+  "homepage": "https://convictionvacation.org",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "test": "react-scripts test",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
