@@ -13,7 +13,7 @@ const About = () => {
       </section>
       <section class="container-fluid-content">
         <h1 class="display-6">Our Team</h1>
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
+        <div class="row row-cols-sm-2">
           {data.map((person, id) =>
           (
             <div class="col">
