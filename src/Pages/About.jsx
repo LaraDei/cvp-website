@@ -35,7 +35,7 @@ const About = () => {
       <p>
         Reach out to learn more and opportunities to volunteer with us.
       </p>
-      <button type="button" class="btn btn-primary"><a class="white-link" href="mailto:mail@seamus.work">Contact Us!</a></button>
+      <button type="button" class="btn btn-primary"><a class="white-link" href="mailto:cvp@seamus.work">Contact Us!</a></button>
     </section>
   </div>
   );

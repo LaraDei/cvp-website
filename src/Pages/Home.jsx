@@ -122,7 +122,7 @@ const Home = () => {
         <div class="row">
           <div class="col">
             <h3>Want to Learn More?</h3>
-            <button type="button" class="btn btn-primary"><a class="white-link" href="mailto:mail@seamus.work">Contact Us!</a></button>
+            <button type="button" class="btn btn-primary"><a class="white-link" href="mailto:cvp@seamus.work">Contact Us!</a></button>
           </div>
         </div>
       </section>
