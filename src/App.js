@@ -19,7 +19,8 @@ import Resources from "./Pages/Resources";
 import Volunteer from "./Pages/Volunteer";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
-import Calculator from "./Pages/Calculator";
+import CalculatorLanding from "./Pages/CalculatorLanding";
+import CalculatorQuestion from "./Pages/CalculatorQuestion";
 
 function App() {
   return (
@@ -32,14 +33,17 @@ function App() {
         <Route path="/contact">
           <Contact />
         </Route>
-        <Route path="/calculator">
-          <Calculator />
+        <Route exact path="/calculator">
+          <CalculatorLanding />
         </Route>
         <Route path="/resources">
           <Resources />
         </Route>
         <Route path="/volunteer">
           <Volunteer />
+        </Route>
+        <Route path="/calculator/:number">
+          <CalculatorQuestion />
         </Route>
         <Route path="/">
           <Home />
