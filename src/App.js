@@ -19,6 +19,7 @@ import Resources from "./Pages/Resources";
 import Volunteer from "./Pages/Volunteer";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
+import Calculator from "./Pages/Calculator";
 
 function App() {
   return (
@@ -30,6 +31,9 @@ function App() {
         </Route>
         <Route path="/contact">
           <Contact />
+        </Route>
+        <Route path="/calculator">
+          <Calculator />
         </Route>
         <Route path="/resources">
           <Resources />
