@@ -1,8 +1,9 @@
 [
-	{
-		"id": 0,
-		"question": "Does your conviction involve marijuana?",
-		"tooltip": "",
-		"answers": ["yes", "no"]
-	}
+  {
+    "id": 0,
+    "question": "Does your conviction involve marijuana?",
+    "tooltip": "",
+    "answers": ["yes", "no"],
+    "next_question": ["ifYesID", "ifNoID"]
+  }
 ]
