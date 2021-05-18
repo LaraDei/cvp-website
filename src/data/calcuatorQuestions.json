@@ -4,6 +4,37 @@
     "question": "Does your conviction involve marijuana?",
     "tooltip": "",
     "answers": ["yes", "no"],
-    "next_question": ["ifYesID", "ifNoID"]
+    "next_question": [1, 2]
+  },
+  {
+    "id": 1,
+    "question": "Was this offense a misdemeanor?",
+    "tooltip": "",
+    "answers": ["yes", "no"],
+    "next_question": [3, "ifNoID"]
+  },
+  {
+    "id": 2,
+    "question": "unfortunately we cannot help you",
+    "tooltip": "",
+    "answers": ["Complete this survey", "Subscribe to mailing"],
+    "next_question": [0, 1]
+  },
+  {
+    "id": 3,
+    "question": "Did this offence involve possession of marijuana",
+    "tooltip": "",
+    "answers": ["yes", "no"],
+    "next_question": [0, 1]
+  },
+  {
+    "id": 100,
+    "question": "alternative formatting for 'answers'",
+    "tooltip": "",
+    "answers": [
+      ["yes", 0],
+      ["no", 1],
+      ["text to display", 2]
+    ]
   }
 ]
