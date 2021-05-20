@@ -19,7 +19,8 @@ const CalculatorQuestion = () => {
    * and destructure the question properties: question, tooltip, and answers
    */
   const { question, tooltip, answers, next_question } = Questions.filter(
-    (q) => q.id === parseInt(number)
+    //no longer need to change ID to integer
+    (q) => q.id == number
   )[0];
 
   const handleClick = (i) => {
